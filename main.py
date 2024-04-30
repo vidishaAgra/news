@@ -1,3 +1,4 @@
+//news summarizer
 import tkinter as tk
 from textblob import TextBlob
 from newspaper import Article
